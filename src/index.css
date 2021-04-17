@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(180deg, rgba(238,238,238,1) 0%, rgba(109,197,238,1) 86%, rgba(82,181,201,1) 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
 }
 
 code {
